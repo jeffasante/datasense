@@ -76,7 +76,7 @@ AI_MODEL=groq/compound-mini
 | **Moonshot** | `kimi-v1-8k` | High-performance reasoning for complex data signatures. |
 | **Grok** | `grok-2` | OpenAI-compatible high-performance reasoning. |
 
-### 🛠️ Strategic Reasoning
+### Strategic Reasoning
 When an AI provider is active, DataSense generates a **Executive Summary & Reasoning** panel in the dashboard. This summary uses your selected model to analyze the cross-modal interaction of your specific dataset and justify why the top-ranked architecture is the current industry gold standard.
 
 *Note: If no API key is provided, DataSense seamlessly falls back to its robust, rule-based expert system.*
