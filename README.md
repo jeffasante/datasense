@@ -159,4 +159,4 @@ DataSense doesn't just classify data; it identifies complex ML tasks based on cr
 | Tabular (300k Rows) | Tabular | `score --model` | 1.1s |
 
 ## License
-MIT
+Apache-2.0
