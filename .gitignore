@@ -37,7 +37,6 @@ debug/
 release/
 
 # DataSense Exports & Artifacts
-/datasense_plots/
 report.md
 report.docx
 report.pdf
