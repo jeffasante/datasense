@@ -1,0 +1,62 @@
+{
+  "fingerprints": {
+    "image": {
+      "class_balance": 1.0,
+      "class_count": 0,
+      "color_channels": 3,
+      "resolution": {
+        "max": [
+          0,
+          0
+        ],
+        "median": [
+          0,
+          0
+        ],
+        "min": [
+          0,
+          0
+        ]
+      },
+      "sample_count": 2,
+      "spatial_complexity": 0.0
+    },
+    "mixed": {
+      "alignment": "partial",
+      "dominant_modality": "image",
+      "fusion_complexity": "hybrid",
+      "modalities": [
+        "image",
+        "tabular"
+      ]
+    },
+    "tabular": {
+      "cardinality": {
+        "high": 0,
+        "low": 0,
+        "unique": 0
+      },
+      "correlation_density": 0.0,
+      "feature_count": 0,
+      "feature_types": {
+        "categorical": 0,
+        "datetime": 0,
+        "numeric": 0
+      },
+      "missing_rate": 0.0,
+      "row_count": 0,
+      "sample_count": 1
+    }
+  },
+  "recommendation": {
+    "alternatives": [
+      "ResNet-50",
+      "MobileNetV3"
+    ],
+    "confidence": 0.82,
+    "key_signals": [
+      "small_to_medium_image_dataset"
+    ],
+    "primary": "EfficientNet-B0"
+  }
+}

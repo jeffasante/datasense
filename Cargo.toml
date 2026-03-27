@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "datasense-cli",
+]
+
+resolver = "2"

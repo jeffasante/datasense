@@ -1,0 +1,23 @@
+DATASENSE ANALYSIS REPORT
+==============================
+Generated: 2026-03-27 17:55:21
+
+PRIMARY MODEL: Flamingo
+MATCH SCORE: 80%
+
+LEADERBOARD
+------------------------------
+1. Flamingo (90%)
+2. ImageBind (88%)
+3. Custom Fusion MLP (85%)
+4. Perceiver IO (82%)
+5. CLIP (0%)
+6. Whisper (ASR) (0%)
+7. VITS (TTS) (0%)
+8. PPO (RL) (0%)
+9. TimeSformer (0%)
+10. SlowFast (0%)
+
+
+------------------------------
+Made with DataSense: https://github.com/jeffasante/datasense
